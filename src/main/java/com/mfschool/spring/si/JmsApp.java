@@ -1,4 +1,4 @@
-package com.ibm.demo.si;
+package com.mfschool.spring.si;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.integration.Message;
 import org.springframework.integration.MessageChannel;

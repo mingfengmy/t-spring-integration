@@ -1,4 +1,4 @@
-package com.ibm.demo.si;
+package com.mfschool.spring.si;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

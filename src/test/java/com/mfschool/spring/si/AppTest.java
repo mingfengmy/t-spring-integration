@@ -1,4 +1,4 @@
-package com.ibm.demo.si;
+package com.mfschool.spring.si;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
