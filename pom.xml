@@ -25,6 +25,38 @@
        <artifactId>spring-integration-jms</artifactId>
        <version>${org.springframework.integration.version}</version>
      </dependency>
+     
+	<dependency>
+		<groupId>org.codehaus.jackson</groupId>
+		<artifactId>jackson-mapper-asl</artifactId>
+		<version>1.4.3</version>
+	</dependency> 
+     <dependency>
+      <groupId>org.springframework.integration</groupId>
+      <artifactId>spring-integration-xml</artifactId>
+      <version>2.0.1.RELEASE</version>
+     </dependency>
+     <dependency>
+      <groupId>org.codehaus.castor</groupId>
+      <artifactId>castor</artifactId>
+      <version>1.2</version>
+     </dependency>
+     <dependency>
+      <groupId>xerces</groupId>
+      <artifactId>xercesImpl</artifactId>
+      <version>2.9.1</version>
+     </dependency>
+   <dependency>
+    <groupId>cglib</groupId>
+    <artifactId>cglib-nodep</artifactId>
+    <version>2.2</version>
+  </dependency>    	
+	<dependency>
+		<groupId>log4j</groupId>
+		<artifactId>log4j</artifactId>
+		<version>1.2.12</version>
+	</dependency>
+	    
 	<dependency>
 		<groupId>org.springframework</groupId>
 		<artifactId>spring-test</artifactId>
